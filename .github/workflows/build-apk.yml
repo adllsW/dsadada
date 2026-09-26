@@ -25,4 +25,3 @@ jobs:
         with:
           name: brawl-arena-apk
           path: ${{ steps.buildozer.outputs.filename }}
-s
